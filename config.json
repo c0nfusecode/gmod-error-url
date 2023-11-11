@@ -1,0 +1,6 @@
+{
+    "webhook": "Your discord webhook",
+    "img": "https://i.redd.it/a4gx4zzzfll71.png",
+    "route": "/itsroute",
+    "port": 1488
+}
